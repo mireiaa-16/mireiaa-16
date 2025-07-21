@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mireiaa-16
-- 👀 I’m interested in Web Development and problem-solving from algorithms and AI to software! 
+- 👀 
 - 🌱 I’m currently studying Computer Engineering at FIB UPC
 - 💞️ I’m looking to collaborate on beginner-friendly coding projects, open-source contributions, or anything fun! 
 - 📫 How to reach me: drop me a message here mireiarino@gmail.com
